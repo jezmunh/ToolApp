@@ -20,4 +20,4 @@ npm install
 npm run dev
 ```
 ## Screenshots
-![Screenshot 1]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/jezmunh/ToolApp/blob/main/screenshots/screenshot_1.png?raw=true)https://github.com/jezmunh/ToolApp/blob/main/screenshots/screenshot_1.png?raw=true "a screenshot")
+![Screenshot 1](https://raw.githubusercontent.com/jezmunh/ToolApp/main/screenshots/screenshot_1.png "a screenshot")
